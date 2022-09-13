@@ -1,3 +1,7 @@
+# This is a Fork of Dishorde by LakeYS. This for is purely to add some 'trash talk' to discord messages when a player dies. I will be editing it into the 1.x branch as 2.x has caused some issues on my side. If needed, the code can be bolted into 2.x by replaing a few lines.
+
+
+
 # 7 Days to Die Discord Integration
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d343cf10ae934d9186f0914c977c05a2)](https://www.codacy.com/app/Lake/7DTD-Discord?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LakeYS/7DTD-Discord&amp;utm_campaign=Badge_Grade)
 
